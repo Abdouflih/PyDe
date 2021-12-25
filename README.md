@@ -39,8 +39,8 @@ Status Bar\
 Console\
 16-- Release Notes And About Bar\
 # Release Notes
-  Version 1.0v\
+  Version 1.0v
 # About
-  Made For Fun :)\
+  Made For Fun :)
 # Last Thing
-Like AND SHARE :3\
+Like AND SHARE :3
